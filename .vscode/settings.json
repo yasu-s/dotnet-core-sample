@@ -1,7 +1,8 @@
 {
-  "editor.renderControlCharacters": true,
-  "editor.tabSize": 4,
-  "files.insertFinalNewline": true,
-  "files.encoding": "utf8",
-  "files.eol": "\n",
+	"editor.renderControlCharacters": true,
+	"editor.tabSize": 4,
+	"editor.insertSpaces": false,
+	"files.insertFinalNewline": true,
+	"files.encoding": "utf8",
+	"files.eol": "\n",
 }
