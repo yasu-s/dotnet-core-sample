@@ -3,5 +3,5 @@
 ## 概要
 
 ```bash
-dotnet run"
+dotnet run
 ```
